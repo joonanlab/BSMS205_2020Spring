@@ -73,7 +73,7 @@ Session 2-4. Sex reproduction  (3/19)
 
 Session 2-5. Heritability Part I (3/21)
 
-Session 2-6. Heritability Part II (3/26)
+Session 2-6. Heritability Part II (3/26; please note that this is a placeholder for other topic if necessary)
 
 ### Session 3. Mutation and Population
 
@@ -87,8 +87,10 @@ Session 3-4. Inbreeding (4/8)
 
 Session 3-5. Genetic architecture (4/10)
 
-Mid term exam preparation
+### Mid term exam preparation
+
 Review Session 2 (4/16)
+
 Review Session 3 (4/18) 
 
 Mid term exam (4/23)
@@ -118,8 +120,10 @@ Session 5-4. Case study 1  (5/30)
 Session 5-5. Case study 2 (6/4)
 
 
-Final exam preparation
+### Final exam preparation
+
 Review Session 4 (6/11)
+
 Review Session 5 (6/13) 
 
 Final exam (6/18)
