@@ -1,17 +1,23 @@
 ## Genetics 
 BSMS 205, Spring 2019
+
 Time: Tuesday (6) and Thursday (6)
 
 Location: Room B214, Hana Science Hall, Seoul Campus
 
 ## Instructor
 Joon-Yong An, PhD
+
 Assistant Professor of Human Genetics
+
 School of Biosystem and Biomedical Science, College of Health Science
+
 
 # 1. General Course Information
 ## 1.1. Course Details
+
 Coordinating Unit: School of Biosystem and Biomedical Science, College of Health Science
+
 Level: Undergraduate 
 
 ## 1.2. Course Introduction
@@ -22,9 +28,11 @@ In addition, the course will aim to inculcate a feeling of interest in some stud
 
 # 2. Aims, Objectives & Graduate Attributes
 ## 2.1 Course Aims
+
 The aim of this course is to familiarise students with the discipline of human genetics, a field through which we can integrate the fundamental concepts of most of the biological disciplines. Students will develop an appreciation of modern genetics while gaining a detailed understanding of the genetic fundamentals from heritability to genetic architecture of traits, as well as learning experimental design, methodology, data collection and basic interpretation skills in human genetics. Completion of this course will assure a sound basis for all biology-focused studies and provide key knowledge required to enable transition into advanced biological courses in third year. Many scientific employers and graduate supervisors see a strong understanding of genetics as a highly valuable characteristic in their laboratory members.
 
 ## 2.2 Learning Objectives
+
 After successfully completing this course you should be able to:
 
 1  Understand the genetic model to describe human traits, comprehend the genetic contribution to phenotype.
