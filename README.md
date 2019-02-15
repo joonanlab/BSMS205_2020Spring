@@ -1,6 +1,7 @@
 ## Genetics 
 BSMS 205, Spring 2019
 Time: Tuesday (6) and Thursday (6)
+
 Location: Room B214, Hana Science Hall, Seoul Campus
 
 ## Instructor
