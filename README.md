@@ -27,13 +27,21 @@ The aim of this course is to familiarise students with the discipline of human g
 After successfully completing this course you should be able to:
 
 1  Understand the genetic model to describe human traits, comprehend the genetic contribution to phenotype.
+
 2  Understand the quantitative nature of human genetics and traits, and develop an appreciation of how the polygenic background impacts on human diseases.
+
 3  Understand the molecular basis of inheritance and understand fundamental mechanisms that enable the transmission of genetic material.
+
 4  Understand  the role of genetic variations in natural population.
+
 5  Understand the development of genetic screening and high-throughput genomic technologies.
+
 6  Understand the core concept of genetic association studies, statistical methodology and experimental design.
+
 7  Review and critique papers published in the field of human genetics.
+
 8  Integrate the broad concepts of this discipline in the context of human genetics and develop an appreciation of how these advances are perceived by Society.
+
 
 # 3. Learning Resources
 No mandatory textbook for this lecture. Slides will include required reading materials for each session. Slides and materials will be posted on the Blackboard as these become available.
