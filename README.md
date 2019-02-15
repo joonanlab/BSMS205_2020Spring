@@ -47,18 +47,27 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 ### Session 2. Human Heredity and Inheritance 
 
 Session 2-1. Mendelian Genetics (3/7)
+
 Session 2-2. Quantitative Genetics (3/12)
+
 Session 2-3. Hardy Weinberg model (3/14)
+
 Session 2-4. Sex reproduction  (3/19)
+
 Session 2-5. Heritability Part I (3/21)
+
 Session 2-6. Heritability Part II (3/26)
 
 ### Session 3. Mutation and Population
 
 Session 3-1. Mutation (3/28)
+
 Session 3-2. Recombination and linkage (4/2)
+
 Session 3-3. Population structure (4/4)
+
 Session 3-4. Inbreeding (4/8)
+
 Session 3-5. Genetic architecture (4/10)
 
 Mid term exam preparation
@@ -70,18 +79,27 @@ Mid term exam (4/23)
 ### Session 4. Human Genome 
 
 Session 4-1. Genome (4/29)
+
 Session 4-2. Next generation sequencing (5/1)
+
 Session 4-3. Probability (5/9)
+
 Session 4-4. Structural variation (5/14)
+
 Session 4-5. Data modality (5/16)
 
 ### Session 5. Genetics in human diseases 
 
 Session 5-1. Genetic disorders (5/21)
+
 Session 5-2. Experimental design (5/23)
+
 Session 5-3. Haploinsufficiency (5/28)
+
 Session 5-4. Case study 1  (5/30)
+
 Session 5-5. Case study 2 (6/4)
+
 
 Final exam preparation
 Review Session 4 (6/11)
