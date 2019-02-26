@@ -61,19 +61,21 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 ### Session 1. Introduction (Week 1, 3/5)
 
+[Session 1. Introduction (3/5)](https://docs.google.com/presentation/d/1vWXKGbpvWOzAxKGha6JTTdDtOX1AjT2WfIrXt9qvf3w/edit?usp=sharing)
+
 ### Session 2. Human Heredity and Inheritance 
 
-Session 2-1. Mendelian Genetics (3/7)
+[Session 2-1. Mendelian Genetics (3/7)](https://docs.google.com/presentation/d/17C4Cv5-VJ46ZpDq6zU5KbT6hpG3zX5fDUdm6Gp04RsE/edit?usp=sharing)
 
-Session 2-2. Quantitative Genetics (3/12)
+[Session 2-2. Quantitative Genetics (3/12)](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
 
 Session 2-3. Hardy Weinberg model (3/14)
 
 Session 2-4. Sex reproduction  (3/19)
 
-Session 2-5. Heritability Part I (3/21)
+Session 2-5. Gene (3/21; please note that this is a placeholder for other topic if necessary)
 
-Session 2-6. Heritability Part II (3/26; please note that this is a placeholder for other topic if necessary)
+Session 2-6. Heritability (3/26)
 
 ### Session 3. Mutation and Population
 
