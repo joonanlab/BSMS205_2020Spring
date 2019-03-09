@@ -71,9 +71,9 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 2-3. Hardy Weinberg Equilibrium (3/14)](https://docs.google.com/presentation/d/1rFYfU3rpPENQXFxkHsM0uXWKkS-lHjuSXo5w8Yr8lIQ/edit?usp=sharing)
 
-Session 2-4. Sex reproduction  (3/19)
+Session 2-4. Chromosome and Sex (3/19)
 
-Session 2-5. Gene (3/21; please note that this is a placeholder for other topic if necessary)
+Session 2-5. Gene (3/21)
 
 Session 2-6. Heritability (3/26)
 
