@@ -67,7 +67,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 2-1. Mendelian Genetics (3/7)](https://docs.google.com/presentation/d/17C4Cv5-VJ46ZpDq6zU5KbT6hpG3zX5fDUdm6Gp04RsE/edit?usp=sharing)
 
-[Session 2-2. Quantitative Genetics (3/12)](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
+[Session 2-2. Biometrical Genetics (3/12)](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
 
 [Session 2-3. Hardy Weinberg Equilibrium (3/14)](https://docs.google.com/presentation/d/1rFYfU3rpPENQXFxkHsM0uXWKkS-lHjuSXo5w8Yr8lIQ/edit?usp=sharing)
 
