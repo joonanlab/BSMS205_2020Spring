@@ -75,7 +75,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 2-5. Gene (3/21)](https://docs.google.com/presentation/d/1hANHa4eK6TnZVc4nOu3ZJHEiTo0o8ID7WzYLNIlaAZM/edit?usp=sharing)
 
-Session 2-6. Heritability (3/26)
+[Session 2-6. Heritability (3/26)](https://docs.google.com/presentation/d/1SnTyzibAn29w7qyCKcza2Q0nCNlfvCHQWUodBCnjY74/edit?usp=sharing)
 
 ### Session 3. Mutation and Population
 
