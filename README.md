@@ -81,7 +81,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 3-1. Mutation (3/28)](https://docs.google.com/presentation/d/1-HXAbXKSBv8TrirsTwn9ZwRMki5TAau1f-t9EooMSkM/edit?usp=sharing)
 
-Session 3-2. Recombination and linkage (4/2)
+[Session 3-2. Linkage disequilibrium and haplotype (4/2)](https://docs.google.com/presentation/d/1N-5R2P2hjit9xpYqKYirOncV9de3Mw_36RV65AlQJ6Q/edit?usp=sharing)
 
 Session 3-3. Population structure (4/4)
 
