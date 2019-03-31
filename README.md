@@ -133,4 +133,4 @@ Final exam (6/18)
 
 # Assignment
 
-[Written Assignment on latest genetic studies](https://docs.google.com/document/d/1kgE9Qfi0moSKGuwI8a1J-weHqmV086ez2sbwTODtkfg/edit?usp=sharing)
+[Written Assignment on latest genetic studies (due 17th May)](https://docs.google.com/document/d/1kgE9Qfi0moSKGuwI8a1J-weHqmV086ez2sbwTODtkfg/edit?usp=sharing)
