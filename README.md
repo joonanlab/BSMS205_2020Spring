@@ -136,3 +136,7 @@ Final exam (6/18)
 [Written Assignment on latest genetic studies (due 17th May)](https://docs.google.com/document/d/1kgE9Qfi0moSKGuwI8a1J-weHqmV086ez2sbwTODtkfg/edit?usp=sharing)
 
 This [link 'Writing, citing and submitting assignments'](https://web.library.uq.edu.au/research-tools-techniques/assignment-essentials/writing-citing-and-submitting-assignments) would be useful for your assignment preparation. Please have a read on the following sections - 1. Writing or creating assignments, 2. Plagiarism, 3. Referencing.
+
+# 6. Resources
+
+[Lecture Notes (Korean)](https://docs.google.com/document/d/1L_vF2S7xp4wI6u_rW6gPxWP09l99d7VbEEQm_R8GLgA/edit?usp=sharing)
