@@ -101,7 +101,7 @@ Mid term exam (4/23)
 
 Session 4-1. Genome (4/30)
 
-Session 4-2. Next generation sequencing (5/2) [Temp slides from Aaron](https://docs.google.com/presentation/d/1rGZnqM8uwkOc_YUq6TPlBbwcbgL4zEefrf_nvQo3d6o/edit?usp=drive_web&ouid=110476442995814023434)
+Session 4-2. Next generation sequencing (5/2) 
 
 Session 4-3. Probability (5/9)
 
