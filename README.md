@@ -83,7 +83,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 3-2. Linkage disequilibrium and haplotype (4/2)](https://docs.google.com/presentation/d/1N-5R2P2hjit9xpYqKYirOncV9de3Mw_36RV65AlQJ6Q/edit?usp=sharing)
 
-Session 3-3. Population structure (4/4)
+[Session 3-3. Population structure (4/4)](https://docs.google.com/presentation/d/1jHj87Mjl715VpW0hjMsf8XgsR7N4p6gi_7F3v_SlN64/edit?usp=sharing)
 
 Session 3-4. Inbreeding (4/8)
 
