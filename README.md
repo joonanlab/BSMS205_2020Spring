@@ -87,7 +87,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 3-4. Inbreeding (4/8)](https://docs.google.com/presentation/d/1r9UFG45of9Eg9dJ6zFOFLpFy4YCYB-dVIRLDtDeSG1Y/edit?usp=sharing)
 
-Session 3-5. Genetic architecture (4/10)
+[Session 3-5. Genetic architecture (4/10)](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
 ### Mid term exam preparation
 
