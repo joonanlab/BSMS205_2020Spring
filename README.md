@@ -140,3 +140,7 @@ This [link 'Writing, citing and submitting assignments'](https://web.library.uq.
 # 6. Resources
 
 [Lecture Notes (English + Korean)](https://docs.google.com/document/d/1L_vF2S7xp4wI6u_rW6gPxWP09l99d7VbEEQm_R8GLgA/edit?usp=sharing)
+
+# 7. Misc.
+
+[오늘 뭐읽지?](http://www.piku.co.kr/w/8flMWN)
