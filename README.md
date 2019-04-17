@@ -107,7 +107,7 @@ Session 4-3. Probability (5/9)
 
 Session 4-4. Structural variation (5/14)
 
-Session 4-5. Data modality (5/16)
+[Session 4-5. Data modality (5/16)](https://docs.google.com/presentation/d/1t_TRYdMPD4kTB9tsLN9bLSFTNth-ttfad36urBUTfAc/edit?usp=sharing)
 
 ### Session 5. Genetics in human diseases 
 
