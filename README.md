@@ -99,11 +99,9 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 ### Session 4. Human Genome 
 
-Session 4-1. Genome (4/30)
+Session 4-1. Genome and Genome Sequencing (5/7)
 
-Session 4-2. Next generation sequencing (5/2) 
-
-Session 4-3. Probability (5/9)
+Session 4-2. Probability (5/9)
 
 Session 4-4. Structural variation (5/14)
 
