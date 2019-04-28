@@ -99,9 +99,9 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 ### Session 4. Human Genome 
 
-Session 4-1. Genome (5/7)
+[Session 4-1. Genome (5/7)](https://docs.google.com/presentation/d/1qcB5lt9D6ctyiCPf8wX4w6YNu9lNfBGvSbCLYVD7hSI/edit?usp=sharing)
 
-Session 4-2. Next generation sequencing (5/9)
+[Session 4-2. Next generation sequencing (5/9)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
 Session 4-3. Data modality (5/14)
 
