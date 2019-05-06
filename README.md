@@ -95,7 +95,9 @@ Review Session 2 (4/16)
 
 Review Session 3 (4/18) 
 
-Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing)) ([results and feedbacks])(https://docs.google.com/presentation/d/179KHlQWEQ09umqCF8bV-bwHb_oQPhT8hni0Ydw4uQTc/edit?usp=sharing) 
+Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing)) 
+([results and feedbacks](https://docs.google.com/presentation/d/179KHlQWEQ09umqCF8bV-bwHb_oQPhT8hni0Ydw4uQTc/edit?usp=sharing))
+
 
 ### Session 4. Human Genome 
 
