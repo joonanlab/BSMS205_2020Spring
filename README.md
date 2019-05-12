@@ -105,9 +105,9 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 [Session 4-2. Next generation sequencing (5/14)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality 1 (5/14)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1 (5/14)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality 2 (5/16)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
+[Session 4-4. Data modality2 (5/16)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
 ### Session 5. Genetics in human diseases 
 
