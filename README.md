@@ -105,19 +105,19 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 [Session 4-2. Next generation sequencing (5/14)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality1 (5/14)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1 (5/16)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality2 (5/16)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
+[Session 4-4. Data modality2 (5/21)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
 ### Session 5. Genetics in human diseases 
 
-Session 5-1. Genetic disorders (5/21)
+Session 5-1. Genetic disorders (5/23)
 
-Session 5-2. Experimental design (5/23)
+Session 5-2. Experimental design (5/28)
 
-Session 5-3. Haploinsufficiency (5/28)
+Session 5-3. Haploinsufficiency (5/30)
 
-Session 5-4. Case study 1  (5/30)
+Session 5-4. Case study 1  (6/4)
 
 Session 5-5. Case study 2 (6/4)
 
