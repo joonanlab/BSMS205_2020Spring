@@ -111,7 +111,7 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 ### Session 5. Genetics in human diseases 
 
-Session 5-1. Genetic disorders (5/23)
+[Session 5-1. Genetic disorders (5/23)](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
 
 Session 5-2. Experimental design (5/28)
 
