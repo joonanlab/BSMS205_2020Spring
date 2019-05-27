@@ -115,18 +115,14 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 [Session 5-2. Experimental design (5/28)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
-Session 5-3. Haploinsufficiency (5/30)
+Session 5-3. Haploinsufficiency (6/4)
 
-Session 5-4. Case study 1  (6/4)
-
-Session 5-5. Case study 2 (6/4)
+Session 5-4. Case study 1 & 2 (6/11)
 
 
 ### Final exam preparation
 
-Review Session 4 (6/11)
-
-Review Session 5 (6/13) 
+Review Session 4 & 5 (6/13) 
 
 Final exam (6/18)
 
