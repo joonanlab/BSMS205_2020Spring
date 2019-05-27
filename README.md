@@ -115,7 +115,7 @@ Mid term exam (4/23) ([format](https://docs.google.com/presentation/d/1fETf5FOBB
 
 [Session 5-2. Experimental design (5/28)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
-Session 5-3. Haploinsufficiency (6/4)
+Session 5-3. Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) & Haploinsufficiency (6/4)
 
 Session 5-4. Case study 1 & 2 (6/11)
 
