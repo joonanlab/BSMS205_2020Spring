@@ -115,9 +115,9 @@ Mid term exam (4/23)
 
 [Session 5-1. Genetic disorders (5/23)](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
 
-[Session 5-2. Experimental design (5/28)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
+[Session 5-2. Experimental design 1 (5/28)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
-Session 5-3. [Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) & Haploinsufficiency (6/4)
+Session 5-3. [Experimental design 2 (6/4)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) 
 
 Session 5-4. Case study 1 & 2 (6/11)
 
