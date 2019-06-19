@@ -126,7 +126,7 @@ Session 5-4. Case study 1 & 2 (6/11)
 
 Review Session 4 & 5 (6/13) 
 
-Final exam (6/18)
+Final exam (6/18)[(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
 
 
 # 5. Assignment
