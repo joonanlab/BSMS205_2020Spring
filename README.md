@@ -142,3 +142,5 @@ This [link 'Writing, citing and submitting assignments'](https://web.library.uq.
 # 7. Misc.
 
 [오늘 뭐읽지?](http://www.piku.co.kr/w/8flMWN)
+
+[의학 유전학 파트1](https://docs.google.com/presentation/d/1KDBdK1uDpxmQ39zGwMYYu0afsW6aghvcDRNVgW3IW9k/edit?usp=sharing)
