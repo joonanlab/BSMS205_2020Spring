@@ -1,9 +1,8 @@
 ## Genetics 
-BSMS 205, Spring 2019
+BSMS 205, Spring 2020
 
-Time: Tuesday (6) and Thursday (6)
-
-Location: Room 401, Life Science Building West, Seoul Campus
+Time: Monday (6) and Wednesday (6)
+Location: Room 128, Hana Science building, Seoul Campus
 
 ## Instructor
 Joon-Yong An, PhD
@@ -59,43 +58,43 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 # 4. Teaching & Learning Activities
 ## 4.1 Learning Activities
 
-### Session 1. Introduction (Week 1, 3/5)
+### Session 1. Introduction 
 
-[Session 1. Introduction (3/5)](https://docs.google.com/presentation/d/1vWXKGbpvWOzAxKGha6JTTdDtOX1AjT2WfIrXt9qvf3w/edit?usp=sharing)
+[Session 1. Introduction](https://docs.google.com/presentation/d/1vWXKGbpvWOzAxKGha6JTTdDtOX1AjT2WfIrXt9qvf3w/edit?usp=sharing)
 
 ### Session 2. Human Heredity and Inheritance 
 
-[Session 2-1. Mendelian Genetics (3/7)](https://docs.google.com/presentation/d/17C4Cv5-VJ46ZpDq6zU5KbT6hpG3zX5fDUdm6Gp04RsE/edit?usp=sharing)
+[Session 2-1. Mendelian Genetics](https://docs.google.com/presentation/d/17C4Cv5-VJ46ZpDq6zU5KbT6hpG3zX5fDUdm6Gp04RsE/edit?usp=sharing)
 
-[Session 2-2. Biometrical Genetics (3/12)](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
+[Session 2-2. Biometrical Genetics](https://docs.google.com/presentation/d/1j89FJrnInVLMprmsK9Y0sBcA6fvIEnSFB5H6aOg00OM/edit?usp=sharing)
 
-[Session 2-3. Hardy Weinberg Equilibrium (3/14)](https://docs.google.com/presentation/d/1rFYfU3rpPENQXFxkHsM0uXWKkS-lHjuSXo5w8Yr8lIQ/edit?usp=sharing)
+[Session 2-3. Hardy Weinberg Equilibrium](https://docs.google.com/presentation/d/1rFYfU3rpPENQXFxkHsM0uXWKkS-lHjuSXo5w8Yr8lIQ/edit?usp=sharing)
 
-[Session 2-4. Chromosome and Sex (3/19)](https://docs.google.com/presentation/d/1vDTuLMrLSjB1ppkhqRDeHuM0rv8J2dE2UEpua6pu6Eo/edit?usp=sharing)
+[Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1vDTuLMrLSjB1ppkhqRDeHuM0rv8J2dE2UEpua6pu6Eo/edit?usp=sharing)
 
 [Session 2-5. Gene (3/21)](https://docs.google.com/presentation/d/1hANHa4eK6TnZVc4nOu3ZJHEiTo0o8ID7WzYLNIlaAZM/edit?usp=sharing)
 
-[Session 2-6. Heritability (3/26)](https://docs.google.com/presentation/d/1SnTyzibAn29w7qyCKcza2Q0nCNlfvCHQWUodBCnjY74/edit?usp=sharing)
+[Session 2-6. Heritability](https://docs.google.com/presentation/d/1SnTyzibAn29w7qyCKcza2Q0nCNlfvCHQWUodBCnjY74/edit?usp=sharing)
 
 ### Session 3. Mutation and Population
 
-[Session 3-1. Mutation (3/28)](https://docs.google.com/presentation/d/1-HXAbXKSBv8TrirsTwn9ZwRMki5TAau1f-t9EooMSkM/edit?usp=sharing)
+[Session 3-1. Mutation](https://docs.google.com/presentation/d/1-HXAbXKSBv8TrirsTwn9ZwRMki5TAau1f-t9EooMSkM/edit?usp=sharing)
 
-[Session 3-2. Linkage disequilibrium and haplotype (4/2)](https://docs.google.com/presentation/d/1N-5R2P2hjit9xpYqKYirOncV9de3Mw_36RV65AlQJ6Q/edit?usp=sharing)
+[Session 3-2. Linkage disequilibrium and haplotype](https://docs.google.com/presentation/d/1N-5R2P2hjit9xpYqKYirOncV9de3Mw_36RV65AlQJ6Q/edit?usp=sharing)
 
-[Session 3-3. Population structure (4/4)](https://docs.google.com/presentation/d/1jHj87Mjl715VpW0hjMsf8XgsR7N4p6gi_7F3v_SlN64/edit?usp=sharing)
+[Session 3-3. Population structure](https://docs.google.com/presentation/d/1jHj87Mjl715VpW0hjMsf8XgsR7N4p6gi_7F3v_SlN64/edit?usp=sharing)
 
-[Session 3-4. Inbreeding (4/8)](https://docs.google.com/presentation/d/1r9UFG45of9Eg9dJ6zFOFLpFy4YCYB-dVIRLDtDeSG1Y/edit?usp=sharing)
+[Session 3-4. Inbreeding](https://docs.google.com/presentation/d/1r9UFG45of9Eg9dJ6zFOFLpFy4YCYB-dVIRLDtDeSG1Y/edit?usp=sharing)
 
-[Session 3-5. Genetic architecture (4/10)](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
+[Session 3-5. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
 ### Mid term exam preparation
 
-Review Session 2 (4/16)
+Review Session 2 
 
-Review Session 3 (4/18) 
+Review Session 3 
 
-Mid term exam (4/23) 
+Mid term exam 
 ([questions](https://docs.google.com/document/d/1SBrnTt_cbxD_zVLHUZzfAIlW8CXLqAVrPU1nTLwpc9c/edit?usp=sharing),
 [format](https://docs.google.com/presentation/d/1fETf5FOBBD75fGQs66k9tDiZlaBbaL5zh_ph9FiyiEs/edit?usp=sharing), 
 [Results and feedbacks (5/7)](https://docs.google.com/presentation/d/179KHlQWEQ09umqCF8bV-bwHb_oQPhT8hni0Ydw4uQTc/edit?usp=sharing))
@@ -103,30 +102,30 @@ Mid term exam (4/23)
 
 ### Session 4. Human Genome 
 
-[Session 4-1. Genome (5/9)](https://docs.google.com/presentation/d/1qcB5lt9D6ctyiCPf8wX4w6YNu9lNfBGvSbCLYVD7hSI/edit?usp=sharing)
+[Session 4-1. Genome](https://docs.google.com/presentation/d/1qcB5lt9D6ctyiCPf8wX4w6YNu9lNfBGvSbCLYVD7hSI/edit?usp=sharing)
 
-[Session 4-2. Next generation sequencing (5/14)](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
+[Session 4-2. Next generation sequencing](https://docs.google.com/presentation/d/12ioYn9M-IytQJCurEPWGMMA8XMQ3m7ns_UDgFMJISvI/edit?usp=sharing)
 
-[Session 4-3. Data modality1 (5/16)](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
+[Session 4-3. Data modality1](https://docs.google.com/presentation/d/1D3TENJ5M5oTzO6WY0vX4TSmV4rnmS7Ql2M6taMxpXDo/edit?usp=sharing)
 
-[Session 4-4. Data modality2 (5/21)](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
+[Session 4-4. Data modality2](https://docs.google.com/presentation/d/1RBr8JdBAsXo1P2VdNuYITaRAZ2BBQouRnbV7LQN1ezo/edit?usp=sharing)
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic disorders (5/23)](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
+[Session 5-1. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
 
-[Session 5-2. Experimental design 1 (5/28)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
+[Session 5-2. Experimental design 1](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
-Session 5-3. [Experimental design 2 (6/4)](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) 
+Session 5-3. [Experimental design 2](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) 
 
-Session 5-4. Case study 1 & 2 (6/11)
+Session 5-4. Case study 1 & 2 
 
 
 ### Final exam preparation
 
-Review Session 4 & 5 (6/13) 
+Review Session 4 & 5 
 
-Final exam (6/18)[(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
+Final exam [(questions)](https://docs.google.com/document/d/1VaCC9sKGd3oQkCU8B8rkPwLs3d4NG09EmVOuu99eE3I/edit?usp=sharing)
 
 
 # 5. Assignment
