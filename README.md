@@ -1,8 +1,5 @@
 ## Genetics 
-BSMS 205, Spring 2020
-
-Time: Monday (6) and Wednesday (6)
-Location: Room 128, Hana Science building, Seoul Campus
+BSMS 205, Spring
 
 ## Instructor
 Joon-Yong An, PhD
@@ -72,7 +69,7 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 2-4. Chromosome and Sex](https://docs.google.com/presentation/d/1vDTuLMrLSjB1ppkhqRDeHuM0rv8J2dE2UEpua6pu6Eo/edit?usp=sharing)
 
-[Session 2-5. Gene (3/21)](https://docs.google.com/presentation/d/1hANHa4eK6TnZVc4nOu3ZJHEiTo0o8ID7WzYLNIlaAZM/edit?usp=sharing)
+[Session 2-5. Gene](https://docs.google.com/presentation/d/1hANHa4eK6TnZVc4nOu3ZJHEiTo0o8ID7WzYLNIlaAZM/edit?usp=sharing)
 
 [Session 2-6. Heritability](https://docs.google.com/presentation/d/1SnTyzibAn29w7qyCKcza2Q0nCNlfvCHQWUodBCnjY74/edit?usp=sharing)
 
