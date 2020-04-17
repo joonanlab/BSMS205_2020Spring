@@ -83,7 +83,6 @@ No mandatory textbook for this lecture. Slides will include required reading mat
 
 [Session 3-4. Inbreeding](https://docs.google.com/presentation/d/1r9UFG45of9Eg9dJ6zFOFLpFy4YCYB-dVIRLDtDeSG1Y/edit?usp=sharing)
 
-[Session 3-5. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
 ### Mid term exam preparation
 
@@ -109,11 +108,11 @@ Mid term exam
 
 ### Session 5. Genetics in human diseases 
 
-[Session 5-1. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
+[Session 5-1. Genetic architecture](https://docs.google.com/presentation/d/1qAfNT0yZ3Snkb5zArz_1dgfp25zDMJo8il9qFeiUw2g/edit?usp=sharing)
 
-[Session 5-2. Experimental design 1](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
+[Session 5-2. Genetic disorders](https://docs.google.com/presentation/d/1ScpY7icZct9p-FusROiC0Q-7tc81pO2XenQLJrRo5oA/edit?usp=sharing)
 
-Session 5-3. [Experimental design 2](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing) 
+[Session 5-3. Experimental design](https://docs.google.com/presentation/d/1n6r414HUejA0McChJC0ZmsZoH5DfHlWo5D_-Mdi-8yU/edit?usp=sharing)
 
 Session 5-4. Case study 1 & 2 
 
